@@ -1,0 +1,15 @@
+. --> Criar uma classe
+# -- criar um id
+$ --> dados variaveis
+> --> criar um filho (elemento)
+{} --> escrever um texto no elemento
+[] --> incluir atributos no elemento
++ --> criar outro elemento filho no mesmo nível
+* --> criar vários elementos
+() --> envelopar os comandos do emmet
+
+. (chama a classe)
+# (chama o id)
+document.querySelector (pega qualquer elemento)
+
+btnP1(objeto).addEventListener(evento)('click'(string), function(){};)
