@@ -1,0 +1,25 @@
+{
+  "name": "projeto-menu",
+  "version": "1.0.0",
+  "description": "Projeto para juntar todos os trabalhos e unificar os apps desenvolvidos em sala de aula",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ana-Calafati/ar-co-rep.git"
+  },
+  "keywords": [
+    "projeto",
+    "organização",
+    "comentários",
+    "estudos"
+  ],
+  "author": "Ana Grifoni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ana-Calafati/ar-co-rep/issues"
+  },
+  "homepage": "https://github.com/Ana-Calafati/ar-co-rep#readme"
+}
