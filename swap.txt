@@ -13,3 +13,12 @@ $ --> dados variaveis
 document.querySelector (pega qualquer elemento)
 
 btnP1(objeto).addEventListener(evento)('click'(string), function(){};)
+window:objeto
+location:localiza as coisas dentro do navegador (função)
+href: sabe abrir pag
+metodo: aprende
+onload: carrega pagina e dps executa essa função
+função fora de objeto
+body é uma tag em html, pq no js vc manipula tag em html 
+                               
+                            
