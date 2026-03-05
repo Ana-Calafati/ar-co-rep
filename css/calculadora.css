@@ -50,7 +50,7 @@
 .
 
 
-Fundo principal: #FFD6A5
+/* Fundo principal: #FFD6A5
 Título: #D1495B
 Bordas dos inputs: #F77F00
 Fundo dos inputs: #FFE8CC
@@ -60,4 +60,4 @@ Botão "Limpar": #D62828 (hover: #9D0208)
 📌 Dicas de CSS:
 ✅ Use display: flex; para alinhar os botões.
 ✅ Aplique border-radius para suavizar os inputs e botões.
-✅ Utilize transition: para criar um efeito suave nos botões.
+✅ Utilize transition: para criar um efeito suave nos botões. */
