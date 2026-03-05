@@ -56,3 +56,6 @@ button:hover {
     box-shadow: 0 10px 15px -3px rgb(0, 0, 0 / 0.1);
 }
 
+.btn-navegacao{
+    background-color:#6d1256;
+}

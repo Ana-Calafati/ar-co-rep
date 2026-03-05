@@ -27,4 +27,6 @@ funcoes
 propriedades, objetos, metodos de js 
 load é para criar o elemento e dps chamar ele. o load primeiro carrega o botão
 dps carrrega sua função
-                       
+forEach é usado apenas para fazer metodo em NodeList
+NodeList e Array são estruturas que armazenam coleções de elementos no JavaScript
+                
