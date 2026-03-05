@@ -2,6 +2,7 @@
 const buttonP1 = document.querySelector('#inputP1');
 const buttonP2 = document.querySelector('#inputP2');
 const buttonP3 = document.querySelector('#inputP3');
+const buttonP4 = document.querySelector('#inputP4');
 
 //2. metodo addEventListener com uma função anonima 
 
@@ -13,6 +14,10 @@ buttonP2.addEventListener('click', function(){
 });
 buttonP3.addEventListener('click', function(){
     window.location.href='./pages/projeto03.html'
+});
+
+buttonP3.addEventListener('click', function(){
+    window.location.href='./pages/projeto04.hmtl'
 });
 
 function criarBotaoVoltar (){

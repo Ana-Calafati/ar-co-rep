@@ -1,9 +1,10 @@
 const btnP1 = document.querySelector('#inputP1');
 const btnP2 = document.querySelector('#inputP2');
 const btnP3 = document.querySelector('#inputP3');
+const btnP4 = document.querySelector('#inputP4');
 
 
-console.log(btnP1, btnP2, btnP3);
+console.log(btnP1, btnP2, btnP3, btnP4);
 
 function teste (x,y){
 
@@ -22,6 +23,10 @@ btnP2.addEventListener('click', function(){
 
 btnP3.addEventListener('click', function(){
     window.location.href='./pages/projeto03.html'
+});
+
+btnP4.addEventListener('click', function(){
+    window.location.href='./pages/projeto04.html'
 });
 
 function cacho (x,y){
