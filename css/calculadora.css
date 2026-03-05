@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.calculator{
+    background-color: #ffd6a5;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+.calculator__form-section{
+
+    background-color: #FFE8CC;
+    padding: 50px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    max-width: 400px;
+    gap: 200px;
+}
+
+.calculator__button--calculate{
+    background-color: #FFB703;
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+.calculator__button--clear{
+    background-color: #D62828;
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+.calculator__result-title{
+    color: #2D6A4F ;
+}
+
+.
+
+
+Fundo principal: #FFD6A5
+Título: #D1495B
+Bordas dos inputs: #F77F00
+Fundo dos inputs: #FFE8CC
+Texto do resultado: #2D6A4F
+Botão "Calcular": #FFB703️ (hover: #F77F00)
+Botão "Limpar": #D62828 (hover: #9D0208)
+📌 Dicas de CSS:
+✅ Use display: flex; para alinhar os botões.
+✅ Aplique border-radius para suavizar os inputs e botões.
+✅ Utilize transition: para criar um efeito suave nos botões.
